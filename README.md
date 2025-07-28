@@ -16,9 +16,9 @@ Um simples e elegante seletor de cores desenvolvido com HTML, CSS e JavaScript. 
 
 ## 📦 Tecnologias
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 #
     Feito com 💙 por Gabriel Ricca

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Seletor de cor</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="icon" href="colorir.png" type="Favicon">
+</head>
+<body>
+  <div class="color-picker-widget">
+    <div class="preview" id="colorPreview"></div>
+
+    <div class="hex-box" id="hexBox">
+      <span id="hexValue">#10b981</span>
+      <small>Clique para copiar</small>
+    </div>
+
+    <input type="color" id="colorinput" value="#10b981">
+
+    <div class="tooltip" id="tooltip"> Copiado com sucesso</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
